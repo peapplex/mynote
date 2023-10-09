@@ -58,3 +58,9 @@ Day2
 ***
 
 
+
+
+
+
+參考資料
+https://www.philips.com.hk/c-p/BRI958_00/lumea-ipl-9000-series-ipl-hair-removal-device/support

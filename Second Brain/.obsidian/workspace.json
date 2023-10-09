@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-閃念筆記/ChocoZap脫毛時間表.md",
+                "file": "0-日誌/00-行動儀表板.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/ChocoZap脫毛時間表.md",
+                "file": "0-日誌/00-行動儀表板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/ChocoZap脫毛時間表.md",
+                "file": "0-日誌/00-行動儀表板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/ChocoZap脫毛時間表.md"
+                "file": "0-日誌/00-行動儀表板.md"
               }
             }
           },
@@ -233,14 +233,21 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "b99c5fb927282460",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,10 +262,13 @@
   },
   "active": "7d713fc08ebd3a9e",
   "lastOpenFiles": [
-    "1-閃念筆記/未命名 1.md",
-    "0-日誌/00-行動儀表板.md",
-    "1-閃念筆記/ChocoZap脫毛時間表.md",
     "0-日誌/01每日任務/2023-10-09.md",
+    "0-日誌/00-行動儀表板.md",
+    "2023-10-10.md",
+    "未命名.canvas",
+    "1-閃念筆記/2023-10-09.md",
+    "1-閃念筆記/ChocoZap脫毛時間表.md",
+    "1-閃念筆記/未命名 1.md",
     "未命名 1",
     "0-日誌/01每日任務",
     "0-日誌/2023-10-09 2.md",
