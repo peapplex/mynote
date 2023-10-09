@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-日誌/2023-10-09 1.md",
+                "file": "0-日誌/2023-10-09 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-日誌/2023-10-09 1.md",
+                "file": "0-日誌/2023-10-09 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-日誌/2023-10-09 1.md",
+                "file": "0-日誌/2023-10-09 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-日誌/2023-10-09 1.md"
+                "file": "0-日誌/2023-10-09 2.md"
               }
             }
           }
@@ -187,8 +187,9 @@
   },
   "active": "eb9289d129564cc4",
   "lastOpenFiles": [
-    "1-閃念筆記/未命名 3.md",
     "0-日誌/2023-10-09 1.md",
+    "0-日誌/2023-10-09 2.md",
+    "1-閃念筆記/未命名 3.md",
     "0-日誌/2023-10-09.md",
     "1-閃念筆記/未命名 1.md",
     "1-閃念筆記/未命名 2.md",
