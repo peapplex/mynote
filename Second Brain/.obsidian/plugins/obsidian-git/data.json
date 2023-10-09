@@ -16,7 +16,7 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": false,
-  "basePath": "",
+  "basePath": "github.com/peapplex/mynote.git",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
