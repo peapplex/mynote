@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-閃念筆記/Obsidian.md",
+                "file": "0-日誌/00-行動儀表板.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/Obsidian.md",
+                "file": "0-日誌/00-行動儀表板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/Obsidian.md",
+                "file": "0-日誌/00-行動儀表板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/Obsidian.md"
+                "file": "0-日誌/00-行動儀表板.md"
               }
             }
           },
@@ -187,9 +187,9 @@
   },
   "active": "8721cddeb41fd29c",
   "lastOpenFiles": [
+    "1-閃念筆記/Obsidian.md",
     "0-日誌/00-行動儀表板.md",
     "0-日誌/01每日任務/2023-10-09.md",
-    "1-閃念筆記/Obsidian.md",
     "3-永久筆記/未命名 3.md",
     "2-文獻筆記/未命名.md",
     "Z-樣板/未命名 1.md",
