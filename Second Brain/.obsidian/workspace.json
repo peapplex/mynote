@@ -165,6 +165,14 @@
                 "file": "0-日誌/2023-10-09.md"
               }
             }
+          },
+          {
+            "id": "8164dfcca77fd56b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -185,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb9289d129564cc4",
+  "active": "3f8c93e1ab3f1d64",
   "lastOpenFiles": [
     "0-日誌/2023-10-09 2.md",
     "0-日誌/2023-10-09.md",
